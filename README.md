@@ -15,9 +15,9 @@
 - 🌍 From Zambia 🇿🇲 | Studying in West Virginia
 - 🛠 Currently exploring web dev, APIs, and cloud tools
 - 🐢 I believe in building slowly, but beautifully
-- 🎨 I love to draw
-- 📖 I love to read mystery novels
-- 🦮 I love animals
+- 🎨 Drawing makes me happy
+- 📖 I love a good mystery novels
+- 🦮 I'm not vegetarian, but I care for animals
 
 ---
 
@@ -34,7 +34,8 @@
 
 ## 📌 Featured Projects
 
-- 🎨 [TechHub WV Website](https://natwange.github.io/WDITH-website/index.html) — Responsive site for digital identity education    
+- 🎨 [TechHub WV Website](https://natwange.github.io/WDITH-website/index.html) — Responsive site for digital identity education
+- 🤝 [CampusClimb](https://github.com/Qhelani01/CampusClimb) — Platform helping students find internships, conferences & opportunities
 
 ---
 
