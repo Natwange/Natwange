@@ -42,7 +42,7 @@
 ## ✨ Experience
 
 **Solera – Business Intelligence Intern**  
-*2025 – Present*  
+*Summer 2025*  
 > Built live Power BI dashboards & improved service team KPIs  
 
 **Cybersecurity Research Assistant**  
