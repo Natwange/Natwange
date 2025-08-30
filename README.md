@@ -4,7 +4,7 @@
 
 <p align="center">
   🌸 Computer Science Student @ WVSU <br>
-  💡 Curious Coder | 📊 BI Intern | 🔐 Cybersecurity Researcher
+  💡 Curious Coder | 👩‍💻 SWE enthusiast | 🔐 Cybersecurity Researcher
 </p>
 
 ---
