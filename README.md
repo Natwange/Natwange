@@ -34,9 +34,7 @@
 
 ## 📌 Featured Projects
 
-- 🎨 [TechHub WV Website](https://natwange.github.io/WDITH-website/index.html) — Responsive site for digital identity education
-- 🤝 [CampusClimb](https://github.com/Qhelani01/CampusClimb) — Platform helping students find internships, conferences & opportunities (In Progress)
-
+- 🎨 [FocusFlow](https://github.com/Natwange/focusflow.git) — Productivity app for consistent goal achievement
 ---
 
 ## ✨ Experience
