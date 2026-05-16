@@ -4,62 +4,67 @@
 
 <p align="center">
   🌸 Computer Science Student @ WVSU <br>
-  💡 Curious Coder | 👩‍💻 SWE enthusiast | 🔐 Cybersecurity Researcher
+  💡 Curious Coder | 👩‍💻 SWE | 📊 Data |🔐 Cybersecurity Researcher
 </p>
 
 ---
 
 ## 🌷 About Me
 
-- 🎓 CS Major, Class of 2027
-- 🌍 From Zambia 🇿🇲 | Studying in West Virginia
-- 🛠 Currently exploring web dev, APIs, and cloud tools
-- 🐢 I believe in building slowly, but beautifully
-- 🎨 Drawing makes me happy
-- 📖 I love a good mystery novels
-- 🦮 I'm not vegetarian, but I care for animals
+- 💻 Aspiring Software Engineer focused on building real-world applications
+- 🛠️ Currently working with JavaScript, TypeScript, Express, APIs, and databases
+- 📊 Exploring data analytics and intelligent productivity systems
+- 🔐 Cybersecurity research experience using machine learning for threat detection
+- 🌱 Learning deeply, building consistently, and improving one project at a time
+- 🎨 Artist at heart — I love drawing and visual creativity
 
 ---
 
-## 🧁 Tech I Love
+## 🛠️ Tech Stack & Interests
 
 ```txt
-💻 Languages:        Python, C, JavaScript, Java
-🕸️  Web Tools:        HTML, CSS, FastAPI
-📊 Data / BI:         Power BI, DAX, Excel, SQLite, PostgreSQL
-🌱 Currently Learning: Full-Stack Dev, REST APIs, Git Workflows
-```
+💻 Languages:        Python, JavaScript, TypeScript, Java, C
+🕸️ Backend / APIs:   Node.js, Express, FastAPI, REST APIs
+🎨 Frontend:         HTML, CSS, React, Next.js
+🗄️ Databases:        SQLite, PostgreSQL, Prisma
+📊 Data / BI:        Power BI, DAX, Excel
+🔐 Interests:        AI Systems, Productivity Tools, Cybersecurity, Data Analytics
+🌱 Currently Growing: System Design, Backend Architecture, Scalable Applications
 
 ---
 
 ## 📌 Featured Projects
 
-- 🎨 [FocusFlow](https://github.com/Natwange/focusflow.git) — Productivity app for consistent goal achievement
----
+- 🚀 [FocusFlow](https://github.com/Natwange/focusflow) — Full-stack productivity system that helps users break down long-term goals into structured daily plans with analytics, adaptive scheduling, and AI-assisted planning features
 
 ## ✨ Experience
 
-**Solera – Business Intelligence Intern**  
+### 📊 Solera — Business Intelligence Intern  
 *Summer 2025*  
-> Built live Power BI dashboards & improved service team KPIs  
+> Developed interactive Power BI dashboards to monitor operational performance, analyze service delivery metrics, and support data-driven decision-making across teams
 
-**Cybersecurity Research Assistant**  
+### 🔐 Cybersecurity Research Assistant  
 *Summer 2024*  
-> Reviewed 100+ ML models to detect DDoS attacks  
+> Researched machine learning approaches for DDoS attack detection using network traffic datasets, data preprocessing, and model evaluation techniques
 
-**Peer Tutor – TRIO SSS**  
-> Helped 50+ students boost grades in Math & CS
+### 🎓 Peer Tutor — TRIO SSS  
+> Supported 50+ students in Math and Computer Science through individualized tutoring, problem-solving guidance, and study strategy development
 
----
-
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natwange&show_icons=true&theme=calm&hide_border=true&icon_color=ffb6c1" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natwange&layout=compact&theme=calm&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Natwange&show_icons=true&hide_border=true&theme=default" 
+    alt="Natwange's GitHub Stats" 
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natwange&layout=compact&hide_border=true&theme=default" 
+    alt="Top Languages" 
+  />
+</p>
 ---
 
 ## 📮 Connect with Me
